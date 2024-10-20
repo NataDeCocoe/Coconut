@@ -1,1 +1,2 @@
-Hope you find it wkwkwk.
+**ABOUT**        
+A little systems that uses data-structure in java        
