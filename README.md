@@ -1,2 +1,2 @@
 **ABOUT**        
-A little systems that uses data-structure in java        
+A little programs that uses data-structure in java        
